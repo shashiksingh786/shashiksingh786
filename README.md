@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashi Kiran Singh
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning nodejs and angular
+- 🌱 I’m currently learning .netcore and angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...7607189779
 
