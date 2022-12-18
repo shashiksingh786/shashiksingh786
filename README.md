@@ -4,7 +4,7 @@
 
 ### About
 ###### My work lets companies to decide that their employee's work as how much productive. my work analysed businesses to decide that how much someone's work is important enough. My work provide an analysed view to identify the bottleneck areas in the processes. My work provide the ability to businesses to decide how many steps can be automated.
-#####My Technical overview:
+##### My Technical overview:
 Full Stack Developer. Having 10+ years of experience in Web Development with Microsoft technology stack and Angular v11.
 -Leading a team (5+ members)
 -Knowledge of Azure DevOps (CI/CD)
