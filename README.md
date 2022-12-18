@@ -1,3 +1,7 @@
+
+# Shashi Kiran Singh
+###### Full Stack Developer (Team Lead @ FIS) | AZURE DevOps | Git | SAFe Agile | ANGULAR 12+ | .NET CORE | WEB API CORE | Rally Agile Methodology | Domain : Financial Services
+
 - 👋 Hi, I’m Shashi Kiran Singh
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning .netcore and angular
