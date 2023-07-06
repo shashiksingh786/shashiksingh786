@@ -22,13 +22,6 @@ Full Stack Developer. Having 10+ years of experience in Web Development with Mic
 - Experience in Creating CLR-Function for Transacting data from One server to Another via Web Service
 - Written T-SQL Queries, Dynamic-queries, sub-queries, and Complex joins for generating Complex Stored Procedures, Triggers, User-defined Functions, Views, and Cursors
 
-
-- 👋 Hi, I’m Shashi Kiran Singh
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning .netcore and angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...7607189779
-
 <!---
 shashiksingh786/shashiksingh786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
