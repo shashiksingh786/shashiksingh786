@@ -1,10 +1,11 @@
 
-# Shashi Kiran Singh
-###### Full Stack Developer (Team Lead @ FIS) | AZURE DevOps | Git | SAFe Agile | ANGULAR 12+ | .NET CORE | WEB API CORE | Rally Agile Methodology | Domain : Financial Services
+# Shashi Kiran Singh 
+#### Full Stack Developer (Sr. Lead @ FIS | Full Stack Developer | ANGULAR 16 | .NET CORE | Git | Microservices | Azure | SAFe Agile | Financial Services Domain | BPO Domain)
 
 ### About
-###### My work lets companies decide how their employees work and how much productive. my work analyzed businesses to decide how much someone's work is important enough. My work provides an analyzed view to identify the bottleneck areas in the processes. My work provides the ability for businesses to decide how many steps can be automated.
-##### My Technical overview:
+###### I am a Sr.Lead Engineer at FIS, a global leader in financial services technology. With over 12 years of experience in full stack development, I have a strong passion for creating web applications that meet business needs and enhance user experience. I have extensive knowledge and skills in Azure DevOps, Angular, ASP.NET Core, and SQL Server, among other technologies.
+###### As a Sr. Lead, I am responsible for leading a team of five developers, designing and implementing RESTful APIs, building responsive and accessible user interfaces, integrating third-party APIs and services, and ensuring code quality and security. I have successfully delivered multiple web applications for various clients, such as CITI Bank and Loan Portal VRM, and received recognition and appreciation for my work. I enjoy working in an Agile environment and collaborating with cross-functional teams, including designers, product owners, and QA engineers. My goal is to continuously learn and improve my skills and contribute to the innovation and excellence of the company.
+#### My Technical overview:
 Full Stack Developer. Having 10+ years of experience in Web Development with Microsoft technology stack and Angular v11.
 - Leading a team (5+ members)
 - Knowledge of Azure DevOps (CI/CD)
@@ -22,6 +23,9 @@ Full Stack Developer. Having 10+ years of experience in Web Development with Mic
 - Experience in Creating CLR-Function for Transacting data from One server to Another via Web Service
 - Written T-SQL Queries, Dynamic-queries, sub-queries, and Complex joins for generating Complex Stored Procedures, Triggers, User-defined Functions, Views, and Cursors
 
+
+### Profile
+[Hackerrank Profile](https://www.hackerrank.com/profile/to_shashi7886)  
 <!---
 shashiksingh786/shashiksingh786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
