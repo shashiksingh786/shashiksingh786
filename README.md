@@ -1,31 +1,61 @@
+# Shashi Kiran Singh
 
-# Shashi Kiran Singh 
-#### Full Stack Developer (Sr. Lead @ FIS | Full Stack Developer | ANGULAR 16 | .NET CORE | Git | Microservices | Azure | SAFe Agile | Financial Services Domain | BPO Domain)
+## 🚀 About Me
+I am a **Sr. Lead Engineer at FIS**, specializing in **Full-Stack Development** with expertise in **.NET Core, C#, Angular 15+, Microservices, EF Core, CI/CD Pipelines (BitBucket, Jenkins, Harness)**, and **Application Security**. My passion lies in building scalable, secure, and high-performing applications while fostering agile methodologies.
 
-### About
-###### I am a Sr.Lead Engineer at FIS, a global leader in financial services technology. With over 12 years of experience in full stack development, I have a strong passion for creating web applications that meet business needs and enhance user experience. I have extensive knowledge and skills in Azure DevOps, Angular, ASP.NET Core, and SQL Server, among other technologies.
-###### As a Sr. Lead, I am responsible for leading a team of five developers, designing and implementing RESTful APIs, building responsive and accessible user interfaces, integrating third-party APIs and services, and ensuring code quality and security. I have successfully delivered multiple web applications for various clients, such as CITI Bank and Loan Portal VRM, and received recognition and appreciation for my work. I enjoy working in an Agile environment and collaborating with cross-functional teams, including designers, product owners, and QA engineers. My goal is to continuously learn and improve my skills and contribute to the innovation and excellence of the company.
-#### My Technical overview:
-Full Stack Developer. Having 10+ years of experience in Web Development with Microsoft technology stack and Angular v11.
-- Leading a team (5+ members)
-- Knowledge of Azure DevOps (CI/CD)
-- Knowledge of version control repositories Git and GitHub
-- Working on SAFe Agile methodology process with Rally tool.
-- Working on Angular 12+ with WEB API Core 2.2, D3 JS
-- Responsible for Veracode scanning and providing the application for Penetration test Security scanning for Internal auditing of application
-- Experience in .Net Core, ASP.NET MVC, and MVC Core Development
-- Experience in 3rd party Web API Integration like class super, and Mail Chimp.
-- Experience in implementing 3rd party control like DHTMLX control.
-- Experience in Web API Core 2.2 development.
-- Strong experience in source control like TFS, and JIRA tools.
-- Strong in OOPS Concepts
-- Very good T-SQL Programming skills. 
-- Experience in Creating CLR-Function for Transacting data from One server to Another via Web Service
-- Written T-SQL Queries, Dynamic-queries, sub-queries, and Complex joins for generating Complex Stored Procedures, Triggers, User-defined Functions, Views, and Cursors
+## 💼 Professional Experience
+### **FIS** | Sr. Lead Engineer | Aug 2018 - Present
+- Spearheading full-stack solutions using **.NET Core & Angular**.
+- Leading a team of developers to deliver high-quality applications.
+- Architecting and optimizing backend APIs with **EF Core & Microservices**.
+- Implementing **CI/CD pipelines** using Jenkins & Harness.
+- Championing **Application Security** initiatives.
+- Recognized for contributions to major clients like **CITI Bank**.
 
+### **Incedo Inc.** | Senior Software Engineer II | Nov 2016 - Jul 2018
+- Developed financial services applications with **ASP.NET Core & Web API**.
+- Designed and optimized complex database schemas using **SQL Server**.
+- Integrated third-party APIs for enhanced functionality.
 
-### Profile
-[Hackerrank Profile](https://www.hackerrank.com/profile/to_shashi7886)  
+### **AdviserLogic** | Senior Software Developer | Sep 2015 - Nov 2016
+- Built secure Web APIs with **OAuth 2.0** for mobile and web applications.
+- Designed scalable MVC-based solutions with **Angular JS & jQuery**.
+
+## 🎓 Education
+- **M.C.A, Computer Applications** – Dr. A.P.J. Abdul Kalam Technical University
+- **B.Sc., Computer Programming** – Chatrapati Sahuji Maharaj Kanpur University
+
+## 🏆 Certifications
+- **SOLID Principles: Software Architecture & Design** – Udemy
+- **Docker for .NET Developer – Getting Started** – Udemy
+
+## 🔥 Featured Projects
+### **Customer Complaints Management System**
+- AI-based **Auto-Complaints Identification** with smart forms & workflow solutions.
+- Integrated **IBS platform** for seamless customer search.
+- Live analytics & reporting dashboards.
+
+### **SAPIENCE – Efficiency Module**
+- Process mining tool eliminating workflow friction points.
+- Peer-to-peer comparisons & visual business intelligence features.
+- Designed high-performance **.NET Core APIs & Angular frontends**.
+
+## ✨ Skills & Expertise
+- **Front-end:** Angular 15+, HTML, CSS, JavaScript
+- **Back-end:** .NET Core, C#, Web API, Microservices
+- **Database:** SQL Server, Entity Framework Core
+- **CI/CD:** Jenkins, Harness, BitBucket Pipelines
+- **Application Security:** Secure coding practices, OWASP guidelines
+- **Agile Methodologies:** Scrum, Kanban, Continuous Delivery
+
+## 📬 Connect with Me
+- **LinkedIn:** [Shashi Kiran Singh](https://www.linkedin.com/in/shashikiransingh7886/)
+- **GitHub:** [shashiksingh786](https://github.com/shashiksingh786)
+- **Twitter:** [@shashiksingh](https://twitter.com/shashiksingh)
+- **Hackerrank:** [@to_shashi7886](https://www.hackerrank.com/profile/to_shashi7886)
+
+---
+
 <!---
 shashiksingh786/shashiksingh786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
