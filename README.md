@@ -1,7 +1,7 @@
 # Shashi Kiran Singh
 
 ## 🚀 About Me
-I am a **Sr. Lead Engineer at FIS**, specializing in **Full-Stack Development** with expertise in **.NET Core, C#, Angular 15+, Microservices, EF Core, CI/CD Pipelines (BitBucket, Jenkins, Harness)**, and **Application Security**. My passion lies in building scalable, secure, and high-performing applications while fostering agile methodologies.
+I am a Senior Lead Engineer at FIS, specializing in Full-Stack Development with deep expertise in .NET Core, C#, Angular 15+, Microservices, EF Core, and CI/CD pipelines (BitBucket, Jenkins, Harness). I am passionate about designing and delivering scalable, secure, and high-performing applications, with a strong focus on application security and agile methodologies. Beyond technical execution, I thrive in driving engineering excellence, mentoring teams, and fostering innovation to build solutions that align with business goals and enhance user experience.
 
 ## 💼 Professional Experience
 ### **FIS** | Sr. Lead Engineer | Aug 2018 - Present
